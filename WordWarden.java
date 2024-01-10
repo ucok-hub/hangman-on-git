@@ -66,7 +66,7 @@ class Game {
             System.out.println("Good guess!");
             this.playerGuesses.add(c);
         } else {
-            System.out.println("Wrong guess!");
+            System.out.println("Salah guess!");
             this.playerGuesses.add(c);
         }
     }
