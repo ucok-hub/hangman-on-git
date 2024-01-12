@@ -1,0 +1,1 @@
+ini adalah bukti berhasil commit and push dari git ke github (local repo to remote repo)
